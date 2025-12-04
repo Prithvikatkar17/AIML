@@ -1,0 +1,13 @@
+# f=open("data.txt","r")
+f=open("sample.txt","r")  
+content=f.read()
+print(content)
+print(type(content))
+data=f.readlines()
+print(data)
+f.close()
+
+#f = open("sample.txt","w")
+f = open("data.txt","w")
+f.write("Hello World\n")
+f.close()

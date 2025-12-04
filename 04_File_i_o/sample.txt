@@ -1,0 +1,3 @@
+this sample file 
+to demo
+file i/o
