@@ -1,3 +1,6 @@
+# Write a function that takes two integers  and  and prints all even numbers between them (inclusive).
+
+
 a = int(input("enter the value of a:"))
 b = int(input("enter the value of b:"))
 
